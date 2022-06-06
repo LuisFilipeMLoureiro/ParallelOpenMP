@@ -1,0 +1,16 @@
+Value of k:
+4
+Substring Sequence B:
+TGTT
+Num of substrings SeqA:
+2
+Resultados Finais:
+Match Max:
+2
+Substrings que maximizaram o match:
+Seq A:
+TC-T
+Seq B:
+TGTT
+
+EOF
